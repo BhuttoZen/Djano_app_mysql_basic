@@ -1,6 +1,8 @@
 # Djano_app_mysql_basic
 I have created basic Djano web page using mysql database from wamp apache server to recieve table from database.
 
+The application is about fruits database, we have tables in database related to fruits. The user then selects an option from fruits in webpage and database is retrieved using database. Instructions and samples are given below
+
                                HOW TO RUN:
 
 I have sent zipped project, you just need to extract that anywhere in your PC. If you have all DJANGO and MYSQL setting installed then go to CMD and go to assignemt/tutorial in extracted folder and run on cmd: “ python manage.py runserver ” and all set.
