@@ -10,6 +10,7 @@ NOTE: I have also given you sample database in fruits.sql file you can run in in
 I am putting some samples under here.
 
 Database tables structure:
+![Screenshot](database_structure.png)
 
 
 
