@@ -10,6 +10,9 @@ NOTE: I have also given you sample database in fruits.sql file you can run in in
 I am putting some samples under here.
 
 Database tables structure:
+
+
+
 ![Screenshot](database_structure.png)
 
 
@@ -20,6 +23,13 @@ All four tales Apples, Banana, Oranges and peaches have following structure:
 Columns: TYPE , PRICE , Quantity , id
 
 You can create your own database or run sql file to create this one.
+
+
 Sample OUTPUT:
+
+
+![Screenshot](output.png)
+
+
  
 Please ask any other query.
